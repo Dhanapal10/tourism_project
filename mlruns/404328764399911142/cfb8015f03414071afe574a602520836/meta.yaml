@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/cfb8015f03414071afe574a602520836/artifacts
+end_time: 1774734573590
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: cfb8015f03414071afe574a602520836
+run_name: adorable-ray-173
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573571
+status: 3
+tags: []
+user_id: root

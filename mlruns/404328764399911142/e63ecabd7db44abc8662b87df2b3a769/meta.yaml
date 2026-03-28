@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/e63ecabd7db44abc8662b87df2b3a769/artifacts
+end_time: 1774734572957
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: e63ecabd7db44abc8662b87df2b3a769
+run_name: stylish-yak-888
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572939
+status: 3
+tags: []
+user_id: root

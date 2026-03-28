@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/c0674d065177474e8b49a288be44b484/artifacts
+end_time: 1774734750086
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: c0674d065177474e8b49a288be44b484
+run_name: clean-carp-896
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750065
+status: 3
+tags: []
+user_id: root

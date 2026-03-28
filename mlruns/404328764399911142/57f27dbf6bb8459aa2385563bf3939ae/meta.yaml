@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/57f27dbf6bb8459aa2385563bf3939ae/artifacts
+end_time: 1774734750159
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 57f27dbf6bb8459aa2385563bf3939ae
+run_name: clean-shoat-30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750138
+status: 3
+tags: []
+user_id: root

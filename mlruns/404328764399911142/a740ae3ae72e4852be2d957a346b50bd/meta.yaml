@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/a740ae3ae72e4852be2d957a346b50bd/artifacts
+end_time: 1774734751195
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: a740ae3ae72e4852be2d957a346b50bd
+run_name: gaudy-kit-380
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734751168
+status: 3
+tags: []
+user_id: root

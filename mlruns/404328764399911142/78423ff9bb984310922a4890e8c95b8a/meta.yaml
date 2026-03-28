@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/78423ff9bb984310922a4890e8c95b8a/artifacts
+end_time: 1774734750404
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 78423ff9bb984310922a4890e8c95b8a
+run_name: trusting-mare-201
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750378
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/501b66774fd944dfa60d8851ddefe6d0/artifacts
+end_time: 1774734572899
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 501b66774fd944dfa60d8851ddefe6d0
+run_name: marvelous-mouse-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572881
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/60104110dd2b4caaa64bc5cc2a979b77/artifacts
+end_time: 1774734572713
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 60104110dd2b4caaa64bc5cc2a979b77
+run_name: bedecked-bear-654
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572695
+status: 3
+tags: []
+user_id: root

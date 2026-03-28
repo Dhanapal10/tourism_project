@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/6b37a5485b2d40ee89a93466c5aff1f3/artifacts
+end_time: 1774734750264
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 6b37a5485b2d40ee89a93466c5aff1f3
+run_name: learned-gull-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750244
+status: 3
+tags: []
+user_id: root

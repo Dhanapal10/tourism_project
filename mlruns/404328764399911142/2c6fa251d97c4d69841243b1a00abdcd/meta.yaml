@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/2c6fa251d97c4d69841243b1a00abdcd/artifacts
+end_time: 1774734572651
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 2c6fa251d97c4d69841243b1a00abdcd
+run_name: smiling-colt-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572632
+status: 3
+tags: []
+user_id: root

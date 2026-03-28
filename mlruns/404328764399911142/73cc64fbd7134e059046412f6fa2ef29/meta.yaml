@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/73cc64fbd7134e059046412f6fa2ef29/artifacts
+end_time: 1774734751025
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 73cc64fbd7134e059046412f6fa2ef29
+run_name: illustrious-bass-378
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750993
+status: 3
+tags: []
+user_id: root

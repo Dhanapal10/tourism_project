@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/e0252707c9544cefb9d7ccce146dd413/artifacts
+end_time: 1774734750507
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: e0252707c9544cefb9d7ccce146dd413
+run_name: powerful-grouse-258
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750473
+status: 3
+tags: []
+user_id: root

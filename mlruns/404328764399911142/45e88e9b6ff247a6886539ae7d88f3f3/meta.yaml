@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/45e88e9b6ff247a6886539ae7d88f3f3/artifacts
+end_time: 1774734573432
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 45e88e9b6ff247a6886539ae7d88f3f3
+run_name: adorable-pug-873
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573414
+status: 3
+tags: []
+user_id: root

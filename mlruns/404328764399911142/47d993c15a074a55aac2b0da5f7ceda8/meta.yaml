@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/47d993c15a074a55aac2b0da5f7ceda8/artifacts
+end_time: 1774734572869
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 47d993c15a074a55aac2b0da5f7ceda8
+run_name: traveling-ant-506
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572850
+status: 3
+tags: []
+user_id: root

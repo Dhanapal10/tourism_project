@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/881f275390094cbba9298c3705362579/artifacts
+end_time: 1774734573402
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 881f275390094cbba9298c3705362579
+run_name: likeable-midge-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573382
+status: 3
+tags: []
+user_id: root

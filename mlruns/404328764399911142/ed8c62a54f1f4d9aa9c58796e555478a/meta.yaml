@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/ed8c62a54f1f4d9aa9c58796e555478a/artifacts
+end_time: 1774734573507
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: ed8c62a54f1f4d9aa9c58796e555478a
+run_name: judicious-loon-538
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573486
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/e6e7a1e1ed5b450685b06b11db19f111/artifacts
+end_time: 1774734572775
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: e6e7a1e1ed5b450685b06b11db19f111
+run_name: melodic-sloth-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572756
+status: 3
+tags: []
+user_id: root

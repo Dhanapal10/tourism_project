@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/28d1c9ea3a5b4434adaa9dc8d563c986/artifacts
+end_time: 1774734573243
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 28d1c9ea3a5b4434adaa9dc8d563c986
+run_name: enchanting-hound-644
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573223
+status: 3
+tags: []
+user_id: root

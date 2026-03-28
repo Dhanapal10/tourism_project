@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/26cfd253084e45b89d0e65958a39933d/artifacts
+end_time: 1774734572928
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 26cfd253084e45b89d0e65958a39933d
+run_name: wise-ram-268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572910
+status: 3
+tags: []
+user_id: root

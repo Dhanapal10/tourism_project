@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/34b75780da994f07935c0e7c1594e6bd/artifacts
+end_time: 1774734573889
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 34b75780da994f07935c0e7c1594e6bd
+run_name: agreeable-stork-41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734562162
+status: 4
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/ea1e3fa5d8bd4bea99cfbe34b642edf2/artifacts
+end_time: 1774734572808
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: ea1e3fa5d8bd4bea99cfbe34b642edf2
+run_name: placid-trout-148
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734572788
+status: 3
+tags: []
+user_id: root

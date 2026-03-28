@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/ccee71b70ea045ef9594b299de801705/artifacts
+end_time: 1774734751154
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: ccee71b70ea045ef9594b299de801705
+run_name: magnificent-hawk-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734751128
+status: 3
+tags: []
+user_id: root

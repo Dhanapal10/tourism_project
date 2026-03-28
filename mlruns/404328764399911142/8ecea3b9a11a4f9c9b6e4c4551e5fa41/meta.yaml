@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/8ecea3b9a11a4f9c9b6e4c4551e5fa41/artifacts
+end_time: 1774734573180
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 8ecea3b9a11a4f9c9b6e4c4551e5fa41
+run_name: bedecked-hen-832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573160
+status: 3
+tags: []
+user_id: root

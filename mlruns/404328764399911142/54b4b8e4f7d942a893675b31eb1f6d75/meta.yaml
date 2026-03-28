@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/54b4b8e4f7d942a893675b31eb1f6d75/artifacts
+end_time: 1774734573366
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 54b4b8e4f7d942a893675b31eb1f6d75
+run_name: nosy-ox-696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573346
+status: 3
+tags: []
+user_id: root

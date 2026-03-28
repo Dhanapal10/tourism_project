@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/6f29d5fb94a04b118251ccbe45cbd7d2/artifacts
+end_time: 1774734750455
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 6f29d5fb94a04b118251ccbe45cbd7d2
+run_name: carefree-shark-513
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750418
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/65739419085d41368219a62321ec2950/artifacts
+end_time: 1774734750706
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 65739419085d41368219a62321ec2950
+run_name: unruly-hen-246
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750675
+status: 3
+tags: []
+user_id: root

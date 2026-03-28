@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/59347d75f10a497c9c606bf3434dc1e8/artifacts
+end_time: 1774734750843
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 59347d75f10a497c9c606bf3434dc1e8
+run_name: valuable-auk-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750820
+status: 3
+tags: []
+user_id: root

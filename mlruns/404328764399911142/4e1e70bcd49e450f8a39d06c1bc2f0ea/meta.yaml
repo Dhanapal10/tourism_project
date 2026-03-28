@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/4e1e70bcd49e450f8a39d06c1bc2f0ea/artifacts
+end_time: 1774734750657
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 4e1e70bcd49e450f8a39d06c1bc2f0ea
+run_name: nebulous-dog-847
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750625
+status: 3
+tags: []
+user_id: root

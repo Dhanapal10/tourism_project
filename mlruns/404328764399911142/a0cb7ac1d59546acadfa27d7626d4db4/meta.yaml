@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/a0cb7ac1d59546acadfa27d7626d4db4/artifacts
+end_time: 1774734573211
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: a0cb7ac1d59546acadfa27d7626d4db4
+run_name: handsome-bug-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573191
+status: 3
+tags: []
+user_id: root

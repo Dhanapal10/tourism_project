@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/4ef8360feca9493abebd4822f70e1fce/artifacts
+end_time: 1774734750561
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 4ef8360feca9493abebd4822f70e1fce
+run_name: rogue-snake-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750526
+status: 3
+tags: []
+user_id: root

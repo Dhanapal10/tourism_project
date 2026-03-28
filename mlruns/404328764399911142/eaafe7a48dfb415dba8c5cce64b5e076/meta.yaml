@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/eaafe7a48dfb415dba8c5cce64b5e076/artifacts
+end_time: 1774734573118
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: eaafe7a48dfb415dba8c5cce64b5e076
+run_name: omniscient-duck-786
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573099
+status: 3
+tags: []
+user_id: root

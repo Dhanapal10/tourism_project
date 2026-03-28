@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/73f0820ea5084cf6b32fff4fdc8ec86a/artifacts
+end_time: 1774734750801
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 73f0820ea5084cf6b32fff4fdc8ec86a
+run_name: debonair-hound-918
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750771
+status: 3
+tags: []
+user_id: root

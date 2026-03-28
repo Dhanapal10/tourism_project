@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/8dac410c605f446f904dbadff10e16f0/artifacts
+end_time: 1774734750233
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: 8dac410c605f446f904dbadff10e16f0
+run_name: rumbling-hen-921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750209
+status: 3
+tags: []
+user_id: root

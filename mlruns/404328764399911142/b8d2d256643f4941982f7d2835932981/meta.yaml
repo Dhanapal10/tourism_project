@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/b8d2d256643f4941982f7d2835932981/artifacts
+end_time: 1774734749957
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: b8d2d256643f4941982f7d2835932981
+run_name: luminous-kit-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734749936
+status: 3
+tags: []
+user_id: root

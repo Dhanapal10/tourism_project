@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/bc74a61c05c5494d9fc9943ff780be3e/artifacts
+end_time: 1774734573534
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: bc74a61c05c5494d9fc9943ff780be3e
+run_name: angry-lamb-388
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734573517
+status: 3
+tags: []
+user_id: root

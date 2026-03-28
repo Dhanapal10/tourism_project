@@ -1,0 +1,14 @@
+artifact_uri: /content/mlruns/404328764399911142/d75215b2d08b4809b517dc0ce0633074/artifacts
+end_time: 1774734750932
+entry_point_name: ''
+experiment_id: '404328764399911142'
+lifecycle_stage: active
+run_id: d75215b2d08b4809b517dc0ce0633074
+run_name: sassy-shark-274
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774734750905
+status: 3
+tags: []
+user_id: root
